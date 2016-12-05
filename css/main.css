@@ -1,0 +1,26 @@
+.jumbotron {
+  background-image: url(../images/1920x665-1.jpg);
+  background-size: 100%;
+  background-attachment: fixed; }
+
+.contenido {
+  background: rgba(116, 116, 116, 0.5);
+  width: 100%;
+  z-index: 1; }
+
+.gray {
+  background: #F6F6F6; }
+
+i {
+  color: #43B7F2; }
+
+.content {
+  margin-top: 8%; }
+
+hr {
+  margin-top: 8%; }
+
+.desciption {
+  margin: 8%; }
+
+/*# sourceMappingURL=main.css.map */
