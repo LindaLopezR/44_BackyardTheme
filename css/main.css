@@ -12,7 +12,8 @@
   background: #F6F6F6; }
 
 i {
-  color: #43B7F2; }
+  color: #43B7F2 !important; 
+}
 
 .content {
   margin-top: 8%; }
@@ -21,6 +22,6 @@ hr {
   margin-top: 8%; }
 
 .desciption {
-  margin: 8%; }
+  margin: 8% 0; }
 
 /*# sourceMappingURL=main.css.map */
